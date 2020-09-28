@@ -1,12 +1,13 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 <h1> # Школа Облачных Технологий </h1>
+======================================
 ## Лист задач
 
 <h2>Для запуска проекта следует выполнить следующие действия:</h2>
 
-<p> ** - Скачать библиотеки php командой `composer install` ** </p>
-<p> *** - Создать базу данных MySQL `laravel`. *** </p>
-<p> ** - Скопировать файл `.env.example` и создать его с именем `.env` ** </p>
-<p> *** - Указать настройки для работы с базой данных в файле `.env` `DB_DATABASE=laravel DB_USERNAME=root DB_PASSWORD=` *** </p>
-<p> ** - Выполнить команду по созданию приватного ключа `php artisan  key:generate` ** </p>
-<p> *** - Выполнить команду для наката миграции `php artisan migrate:fresh` *** </p>
+<p>**- Скачать библиотеки php командой `composer install`**</p>
+<p>***- Создать базу данных MySQL `laravel`.***</p>
+<p>**- Скопировать файл `.env.example` и создать его с именем `.env`**</p>
+<p>***- Указать настройки для работы с базой данных в файле `.env` `DB_DATABASE=laravel DB_USERNAME=root DB_PASSWORD=`***</p>
+<p>**- Выполнить команду по созданию приватного ключа `php artisan  key:generate`**</p>
+<p>***- Выполнить команду для наката миграции `php artisan migrate:fresh`***</p>
