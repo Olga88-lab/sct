@@ -4,9 +4,9 @@
 
 <h2>Для запуска проекта следует выполнить следующие действия:</h2>
 
-<p> ** - Скачать библиотеки php командой `composer install` ** </p>
-<p>***- Создать базу данных MySQL `laravel`.***</p>
-<p>**- Скопировать файл `.env.example` и создать его с именем `.env`**</p>
-<p>***- Указать настройки для работы с базой данных в файле `.env` `DB_DATABASE=laravel DB_USERNAME=root DB_PASSWORD=`***</p>
-<p>**- Выполнить команду по созданию приватного ключа `php artisan  key:generate`**</p>
-<p>***- Выполнить команду для наката миграции `php artisan migrate:fresh`***</p>
+**- Скачать библиотеки php командой `composer install`**
+***- Создать базу данных MySQL `laravel`.***
+**- Скопировать файл `.env.example` и создать его с именем `.env`**
+***- Указать настройки для работы с базой данных в файле `.env` `DB_DATABASE=laravel DB_USERNAME=root DB_PASSWORD=`***
+**- Выполнить команду по созданию приватного ключа `php artisan  key:generate`**
+***- Выполнить команду для наката миграции `php artisan migrate:fresh`***
