@@ -1,9 +1,6 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 ## Лист задач
-### Изменения в проекте:
-- Выполнена задача tak1-1
-- Выполнена задача tak1-2
 
 Для запуска проекта следует выполнить следующие действия:
 
